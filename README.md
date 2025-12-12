@@ -26,7 +26,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/0._juuunn/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/0._juuunn/"> </a>
-         <a href=https://sharp-indigo-f19.notion.site/pyj9909?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://sharp-indigo-f19.notion.site/pyj9909?pvs=4"> </a>
+         <a href=https://sharp-indigo-f19.notion.site/17d48bb8cd3d803aa7f2f0bdf0b071f4?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://sharp-indigo-f19.notion.site/pyj9909?pvs=4"> </a>
          <a href=mailto:dydekd7511@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:dydekd7511@gmail.com"> </a>
           </div>  <br> 
     </div>
