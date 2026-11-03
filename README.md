@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟It's me!🌟 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li>RESTful 설계 원칙을 강조하며 클린 코드를 중심으로 개발 중입니다</li></li><li>자원 중심 설계와 HTTP 메서드 활용을 준수하며, 가독성 높은 코드 작성과 하나의 책임 원칙을 중요시하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;" > <li list-style: none;>RESTful 설계 원칙을 강조하며 클린 코드를 중심으로 개발 중입니다</li></li><li list-style: none;>자원 중심 설계와 HTTP 메서드 활용을 준수하며, 가독성 높은 코드 작성과 하나의 책임 원칙을 중요시하고 있습니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
